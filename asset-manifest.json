@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fae27654.css",
+    "main.js": "/static/js/main.cc8f5eab.js",
+    "static/js/787.e3040d39.chunk.js": "/static/js/787.e3040d39.chunk.js",
+    "static/media/escaLogoWhite.svg": "/static/media/escaLogoWhite.8c736c64f68920224d18f8339c3febc8.svg",
+    "index.html": "/index.html",
+    "main.fae27654.css.map": "/static/css/main.fae27654.css.map",
+    "main.cc8f5eab.js.map": "/static/js/main.cc8f5eab.js.map",
+    "787.e3040d39.chunk.js.map": "/static/js/787.e3040d39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fae27654.css",
+    "static/js/main.cc8f5eab.js"
+  ]
+}
